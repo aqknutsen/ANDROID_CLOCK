@@ -1,4 +1,4 @@
-Implementation of a Clock in Android
+Implementation of a running clock in Android with 12/24 hour mode, AM/PM, and ability to set time
 
 Authors: Alec Knutsen, Yarden Tamir, John Russell, Cesar Avalos
 
